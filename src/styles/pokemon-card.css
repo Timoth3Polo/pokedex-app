@@ -1,0 +1,2266 @@
+/* Bug */
+
+.pokemon-background-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #8b8b4f);
+}
+
+
+/* Dark */
+
+.pokemon-background-dark {
+    background: linear-gradient(to bottom right, #777777, #1a1a1a);
+}
+
+
+/* Dragon */
+
+.pokemon-background-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #4d4dff);
+}
+
+
+/* Electric */
+
+.pokemon-background-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #ffd700);
+}
+
+
+/* Fairy */
+
+.pokemon-background-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #ff69b4);
+}
+
+
+/* Fighting */
+
+.pokemon-background-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #b25836);
+}
+
+
+/* Fire */
+
+.pokemon-background-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #800000);
+}
+
+
+/* Flying */
+
+.pokemon-background-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #4f83a1);
+}
+
+
+/* Ghost */
+
+.pokemon-background-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #4d4d5c);
+}
+
+
+/* Grass */
+
+.pokemon-background-grass {
+    background: linear-gradient(to bottom right, #a8e388, #1ca440);
+}
+
+
+/* Ground */
+
+.pokemon-background-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #8b795e);
+}
+
+
+/* Ice */
+
+.pokemon-background-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #5c85d6);
+}
+
+
+/* Normal */
+
+.pokemon-background-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #696969);
+}
+
+
+/* Poison */
+
+.pokemon-background-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #800080);
+}
+
+
+/* Psychic */
+
+.pokemon-background-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #ff69b4);
+}
+
+
+/* Rock */
+
+.pokemon-background-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #6b6b6b);
+}
+
+
+/* Steel */
+
+.pokemon-background-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #808080);
+}
+
+
+/* Water */
+
+.pokemon-background-water {
+    background: linear-gradient(to bottom right, #aaaaff, #000080);
+}
+
+
+/* Bug/Dark */
+
+.pokemon-background-bug-dark {
+    background: linear-gradient(to bottom right, #777777, #8b8b4f);
+}
+
+
+/* Bug/Dragon */
+
+.pokemon-background-bug-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #8b8b4f);
+}
+
+
+/* Bug/Electric */
+
+.pokemon-background-bug-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #8b8b4f);
+}
+
+
+/* Bug/Fairy */
+
+.pokemon-background-bug-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #8b8b4f);
+}
+
+
+/* Bug/Fighting */
+
+.pokemon-background-bug-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #8b8b4f);
+}
+
+
+/* Bug/Fire */
+
+.pokemon-background-bug-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #8b8b4f);
+}
+
+
+/* Bug/Flying */
+
+.pokemon-background-bug-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #8b8b4f);
+}
+
+
+/* Bug/Ghost */
+
+.pokemon-background-bug-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #8b8b4f);
+}
+
+
+/* Bug/Grass */
+
+.pokemon-background-bug-grass {
+    background: linear-gradient(to bottom right, #a8e388, #8b8b4f);
+}
+
+
+/* Bug/Ground */
+
+.pokemon-background-bug-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #8b8b4f);
+}
+
+
+/* Bug/Ice */
+
+.pokemon-background-bug-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #8b8b4f);
+}
+
+
+/* Bug/Normal */
+
+.pokemon-background-bug-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #8b8b4f);
+}
+
+
+/* Bug/Poison */
+
+.pokemon-background-bug-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #8b8b4f);
+}
+
+
+/* Bug/Psychic */
+
+.pokemon-background-bug-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #8b8b4f);
+}
+
+
+/* Bug/Rock */
+
+.pokemon-background-bug-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #8b8b4f);
+}
+
+
+/* Bug/Steel */
+
+.pokemon-background-bug-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #8b8b4f);
+}
+
+
+/* Bug/Water */
+
+.pokemon-background-bug-water {
+    background: linear-gradient(to bottom right, #aaaaff, #8b8b4f);
+}
+
+
+/* Dark/Bug */
+
+.pokemon-background-dark-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #777777);
+}
+
+
+/* Dark/Dragon */
+
+.pokemon-background-dark-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #777777);
+}
+
+
+/* Dark/Electric */
+
+.pokemon-background-dark-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #777777);
+}
+
+
+/* Dark/Fairy */
+
+.pokemon-background-dark-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #777777);
+}
+
+
+/* Dark/Fighting */
+
+.pokemon-background-dark-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #777777);
+}
+
+
+/* Dark/Fire */
+
+.pokemon-background-dark-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #777777);
+}
+
+
+/* Dark/Flying */
+
+.pokemon-background-dark-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #777777);
+}
+
+
+/* Dark/Ghost */
+
+.pokemon-background-dark-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #777777);
+}
+
+
+/* Dark/Grass */
+
+.pokemon-background-dark-grass {
+    background: linear-gradient(to bottom right, #a8e388, #777777);
+}
+
+
+/* Dark/Ground */
+
+.pokemon-background-dark-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #777777);
+}
+
+
+/* Dark/Ice */
+
+.pokemon-background-dark-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #777777);
+}
+
+
+/* Dark/Normal */
+
+.pokemon-background-dark-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #777777);
+}
+
+
+/* Dark/Poison */
+
+.pokemon-background-dark-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #777777);
+}
+
+
+/* Dark/Psychic */
+
+.pokemon-background-dark-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #777777);
+}
+
+
+/* Dark/Rock */
+
+.pokemon-background-dark-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #777777);
+}
+
+
+/* Dark/Steel */
+
+.pokemon-background-dark-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #777777);
+}
+
+
+/* Dark/Water */
+
+.pokemon-background-dark-water {
+    background: linear-gradient(to bottom right, #aaaaff, #777777);
+}
+
+
+/* Dragon/Bug */
+
+.pokemon-background-dragon-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #a9a9f5);
+}
+
+
+/* Dragon/Dark */
+
+.pokemon-background-dragon-dark {
+    background: linear-gradient(to bottom right, #777777, #a9a9f5);
+}
+
+
+/* Dragon/Electric */
+
+.pokemon-background-dragon-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #a9a9f5);
+}
+
+
+/* Dragon/Fairy */
+
+.pokemon-background-dragon-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #a9a9f5);
+}
+
+
+/* Dragon/Fighting */
+
+.pokemon-background-dragon-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #a9a9f5);
+}
+
+
+/* Dragon/Fire */
+
+.pokemon-background-dragon-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #a9a9f5);
+}
+
+
+/* Dragon/Flying */
+
+.pokemon-background-dragon-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #a9a9f5);
+}
+
+
+/* Dragon/Ghost */
+
+.pokemon-background-dragon-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #a9a9f5);
+}
+
+
+/* Dragon/Grass */
+
+.pokemon-background-dragon-grass {
+    background: linear-gradient(to bottom right, #a8e388, #a9a9f5);
+}
+
+
+/* Dragon/Ground */
+
+.pokemon-background-dragon-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #a9a9f5);
+}
+
+
+/* Dragon/Ice */
+
+.pokemon-background-dragon-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #a9a9f5);
+}
+
+
+/* Dragon/Normal */
+
+.pokemon-background-dragon-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #a9a9f5);
+}
+
+
+/* Dragon/Poison */
+
+.pokemon-background-dragon-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #a9a9f5);
+}
+
+
+/* Dragon/Psychic */
+
+.pokemon-background-dragon-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #a9a9f5);
+}
+
+
+/* Dragon/Rock */
+
+.pokemon-background-dragon-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #a9a9f5);
+}
+
+
+/* Dragon/Steel */
+
+.pokemon-background-dragon-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #a9a9f5);
+}
+
+
+/* Dragon/Water */
+
+.pokemon-background-dragon-water {
+    background: linear-gradient(to bottom right, #aaaaff, #a9a9f5);
+}
+
+
+/* Electric/Bug */
+
+.pokemon-background-electric-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #ffd700);
+}
+
+
+/* Electric/Dark */
+
+.pokemon-background-electric-dark {
+    background: linear-gradient(to bottom right, #777777, #ffd700);
+}
+
+
+/* Electric/Dragon */
+
+.pokemon-background-electric-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #ffd700);
+}
+
+
+/* Electric/Fairy */
+
+.pokemon-background-electric-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #ffd700);
+}
+
+
+/* Electric/Fighting */
+
+.pokemon-background-electric-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #ffd700);
+}
+
+
+/* Electric/Fire */
+
+.pokemon-background-electric-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #ffd700);
+}
+
+
+/* Electric/Flying */
+
+.pokemon-background-electric-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #ffd700);
+}
+
+
+/* Electric/Ghost */
+
+.pokemon-background-electric-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #ffd700);
+}
+
+
+/* Electric/Grass */
+
+.pokemon-background-electric-grass {
+    background: linear-gradient(to bottom right, #a8e388, #ffd700);
+}
+
+
+/* Electric/Ground */
+
+.pokemon-background-electric-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #ffd700);
+}
+
+
+/* Electric/Ice */
+
+.pokemon-background-electric-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #ffd700);
+}
+
+
+/* Electric/Normal */
+
+.pokemon-background-electric-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #ffd700);
+}
+
+
+/* Electric/Poison */
+
+.pokemon-background-electric-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #ffd700);
+}
+
+
+/* Electric/Psychic */
+
+.pokemon-background-electric-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #ffd700);
+}
+
+
+/* Electric/Rock */
+
+.pokemon-background-electric-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #ffd700);
+}
+
+
+/* Electric/Steel */
+
+.pokemon-background-electric-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #ffd700);
+}
+
+
+/* Electric/Water */
+
+.pokemon-background-electric-water {
+    background: linear-gradient(to bottom right, #aaaaff, #ffd700);
+}
+
+
+/* Fairy/Bug */
+
+.pokemon-background-fairy-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #ffc0cb);
+}
+
+
+/* Fairy/Dark */
+
+.pokemon-background-fairy-dark {
+    background: linear-gradient(to bottom right, #777777, #ffc0cb);
+}
+
+
+/* Fairy/Dragon */
+
+.pokemon-background-fairy-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #ffc0cb);
+}
+
+
+/* Fairy/Electric */
+
+.pokemon-background-fairy-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #ffc0cb);
+}
+
+
+/* Fairy/Fighting */
+
+.pokemon-background-fairy-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #ffc0cb);
+}
+
+
+/* Fairy/Fire */
+
+.pokemon-background-fairy-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #ffc0cb);
+}
+
+
+/* Fairy/Flying */
+
+.pokemon-background-fairy-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #ffc0cb);
+}
+
+
+/* Fairy/Ghost */
+
+.pokemon-background-fairy-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #ffc0cb);
+}
+
+
+/* Fairy/Grass */
+
+.pokemon-background-fairy-grass {
+    background: linear-gradient(to bottom right, #a8e388, #ffc0cb);
+}
+
+
+/* Fairy/Ground */
+
+.pokemon-background-fairy-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #ffc0cb);
+}
+
+
+/* Fairy/Ice */
+
+.pokemon-background-fairy-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #ffc0cb);
+}
+
+
+/* Fairy/Normal */
+
+.pokemon-background-fairy-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #ffc0cb);
+}
+
+
+/* Fairy/Poison */
+
+.pokemon-background-fairy-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #ffc0cb);
+}
+
+
+/* Fairy/Psychic */
+
+.pokemon-background-fairy-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #ffc0cb);
+}
+
+
+/* Fairy/Rock */
+
+.pokemon-background-fairy-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #ffc0cb);
+}
+
+
+/* Fairy/Steel */
+
+.pokemon-background-fairy-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #ffc0cb);
+}
+
+
+/* Fairy/Water */
+
+.pokemon-background-fairy-water {
+    background: linear-gradient(to bottom right, #aaaaff, #ffc0cb);
+}
+
+
+/* Fighting/Bug */
+
+.pokemon-background-fighting-bug {
+    background: linear-gradient(to bottom right, #f2b096, #8b8b4f);
+}
+
+
+/* Fighting/Dark */
+
+.pokemon-background-fighting-dark {
+    background: linear-gradient(to bottom right, #f2b096, #1a1a1a);
+}
+
+
+/* Fighting/Dragon */
+
+.pokemon-background-fighting-dragon {
+    background: linear-gradient(to bottom right, #f2b096, #4d4dff);
+}
+
+
+/* Fighting/Electric */
+
+.pokemon-background-fighting-electric {
+    background: linear-gradient(to bottom right, #f2b096, #ffd700);
+}
+
+
+/* Fighting/Fairy */
+
+.pokemon-background-fighting-fairy {
+    background: linear-gradient(to bottom right, #f2b096, #ffc0cb);
+}
+
+
+/* Fighting/Fire */
+
+.pokemon-background-fighting-fire {
+    background: linear-gradient(to bottom right, #f2b096, #800000);
+}
+
+
+/* Fighting/Flying */
+
+.pokemon-background-fighting-flying {
+    background: linear-gradient(to bottom right, #f2b096, #c0d6e4);
+}
+
+
+/* Fighting/Ghost */
+
+.pokemon-background-fighting-ghost {
+    background: linear-gradient(to bottom right, #f2b096, #4d4d5c);
+}
+
+
+/* Fighting/Grass */
+
+.pokemon-background-fighting-grass {
+    background: linear-gradient(to bottom right, #f2b096, #a8e388);
+}
+
+
+/* Fighting/Ground */
+
+.pokemon-background-fighting-ground {
+    background: linear-gradient(to bottom right, #f2b096, #e1cda1);
+}
+
+
+/* Fighting/Ice */
+
+.pokemon-background-fighting-ice {
+    background: linear-gradient(to bottom right, #f2b096, #c6e0ff);
+}
+
+
+/* Fighting/Normal */
+
+.pokemon-background-fighting-normal {
+    background: linear-gradient(to bottom right, #f2b096, #dcdcdc);
+}
+
+
+/* Fighting/Poison */
+
+.pokemon-background-fighting-poison {
+    background: linear-gradient(to bottom right, #f2b096, #800080);
+}
+
+
+/* Fighting/Psychic */
+
+.pokemon-background-fighting-psychic {
+    background: linear-gradient(to bottom right, #f2b096, #ff69b4);
+}
+
+
+/* Fighting/Rock */
+
+.pokemon-background-fighting-rock {
+    background: linear-gradient(to bottom right, #f2b096, #6b6b6b);
+}
+
+
+/* Fighting/Steel */
+
+.pokemon-background-fighting-steel {
+    background: linear-gradient(to bottom right, #f2b096, #808080);
+}
+
+
+/* Fighting/Water */
+
+.pokemon-background-fighting-water {
+    background: linear-gradient(to bottom right, #f2b096, #000080);
+}
+
+
+/* Fire/Bug */
+
+.pokemon-background-fire-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #800000);
+}
+
+
+/* Fire/Dark */
+
+.pokemon-background-fire-dark {
+    background: linear-gradient(to bottom right, #777777, #800000);
+}
+
+
+/* Fire/Dragon */
+
+.pokemon-background-fire-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #800000);
+}
+
+
+/* Fire/Electric */
+
+.pokemon-background-fire-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #800000);
+}
+
+
+/* Fire/Fairy */
+
+.pokemon-background-fire-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #800000);
+}
+
+
+/* Fire/Fighting */
+
+.pokemon-background-fire-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #800000);
+}
+
+
+/* Fire/Flying */
+
+.pokemon-background-fire-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #800000);
+}
+
+
+/* Fire/Ghost */
+
+.pokemon-background-fire-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #800000);
+}
+
+
+/* Fire/Grass */
+
+.pokemon-background-fire-grass {
+    background: linear-gradient(to bottom right, #a8e388, #800000);
+}
+
+
+/* Fire/Ground */
+
+.pokemon-background-fire-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #800000);
+}
+
+
+/* Fire/Ice */
+
+.pokemon-background-fire-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #800000);
+}
+
+
+/* Fire/Normal */
+
+.pokemon-background-fire-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #800000);
+}
+
+
+/* Fire/Poison */
+
+.pokemon-background-fire-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #800000);
+}
+
+
+/* Fire/Psychic */
+
+.pokemon-background-fire-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #800000);
+}
+
+
+/* Fire/Rock */
+
+.pokemon-background-fire-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #800000);
+}
+
+
+/* Fire/Steel */
+
+.pokemon-background-fire-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #800000);
+}
+
+
+/* Fire/Water */
+
+.pokemon-background-fire-water {
+    background: linear-gradient(to bottom right, #aaaaff, #800000);
+}
+
+
+/* Flying/Bug */
+
+.pokemon-background-flying-bug {
+    background: linear-gradient(to bottom right, #c0d6e4, #8b8b4f);
+}
+
+
+/* Flying/Dark */
+
+.pokemon-background-flying-dark {
+    background: linear-gradient(to bottom right, #777777, #c0d6e4);
+}
+
+
+/* Flying/Dragon */
+
+.pokemon-background-flying-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #c0d6e4);
+}
+
+
+/* Flying/Electric */
+
+.pokemon-background-flying-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #c0d6e4);
+}
+
+
+/* Flying/Fairy */
+
+.pokemon-background-flying-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #c0d6e4);
+}
+
+
+/* Flying/Fighting */
+
+.pokemon-background-flying-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #c0d6e4);
+}
+
+
+/* Flying/Fire */
+
+.pokemon-background-flying-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #c0d6e4);
+}
+
+
+/* Flying/Ghost */
+
+.pokemon-background-flying-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #c0d6e4);
+}
+
+
+/* Flying/Grass */
+
+.pokemon-background-flying-grass {
+    background: linear-gradient(to bottom right, #a8e388, #c0d6e4);
+}
+
+
+/* Flying/Ground */
+
+.pokemon-background-flying-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #c0d6e4);
+}
+
+
+/* Flying/Ice */
+
+.pokemon-background-flying-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #c0d6e4);
+}
+
+
+/* Flying/Normal */
+
+.pokemon-background-flying-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #c0d6e4);
+}
+
+
+/* Flying/Poison */
+
+.pokemon-background-flying-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #c0d6e4);
+}
+
+
+/* Flying/Psychic */
+
+.pokemon-background-flying-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #c0d6e4);
+}
+
+
+/* Flying/Rock */
+
+.pokemon-background-flying-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #c0d6e4);
+}
+
+
+/* Flying/Steel */
+
+.pokemon-background-flying-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #c0d6e4);
+}
+
+
+/* Flying/Water */
+
+.pokemon-background-flying-water {
+    background: linear-gradient(to bottom right, #aaaaff, #c0d6e4);
+}
+
+
+/* Ghost/Bug */
+
+.pokemon-background-ghost-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #4d4d5c);
+}
+
+
+/* Ghost/Dark */
+
+.pokemon-background-ghost-dark {
+    background: linear-gradient(to bottom right, #777777, #4d4d5c);
+}
+
+
+/* Ghost/Dragon */
+
+.pokemon-background-ghost-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #4d4d5c);
+}
+
+
+/* Ghost/Electric */
+
+.pokemon-background-ghost-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #4d4d5c);
+}
+
+
+/* Ghost/Fairy */
+
+.pokemon-background-ghost-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #4d4d5c);
+}
+
+
+/* Ghost/Fighting */
+
+.pokemon-background-ghost-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #4d4d5c);
+}
+
+
+/* Ghost/Fire */
+
+.pokemon-background-ghost-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #4d4d5c);
+}
+
+
+/* Ghost/Flying */
+
+.pokemon-background-ghost-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #4d4d5c);
+}
+
+
+/* Ghost/Grass */
+
+.pokemon-background-ghost-grass {
+    background: linear-gradient(to bottom right, #a8e388, #4d4d5c);
+}
+
+
+/* Ghost/Ground */
+
+.pokemon-background-ghost-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #4d4d5c);
+}
+
+
+/* Ghost/Ice */
+
+.pokemon-background-ghost-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #4d4d5c);
+}
+
+
+/* Ghost/Normal */
+
+.pokemon-background-ghost-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #4d4d5c);
+}
+
+
+/* Ghost/Poison */
+
+.pokemon-background-ghost-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #4d4d5c);
+}
+
+
+/* Ghost/Psychic */
+
+.pokemon-background-ghost-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #4d4d5c);
+}
+
+
+/* Ghost/Rock */
+
+.pokemon-background-ghost-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #4d4d5c);
+}
+
+
+/* Ghost/Steel */
+
+.pokemon-background-ghost-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #4d4d5c);
+}
+
+
+/* Ghost/Water */
+
+.pokemon-background-ghost-water {
+    background: linear-gradient(to bottom right, #aaaaff, #4d4d5c);
+}
+
+
+/* Grass/Bug */
+
+.pokemon-background-grass-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #a8e388);
+}
+
+
+/* Grass/Dark */
+
+.pokemon-background-grass-dark {
+    background: linear-gradient(to bottom right, #777777, #a8e388);
+}
+
+
+/* Grass/Dragon */
+
+.pokemon-background-grass-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #a8e388);
+}
+
+
+/* Grass/Electric */
+
+.pokemon-background-grass-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #a8e388);
+}
+
+
+/* Grass/Fairy */
+
+.pokemon-background-grass-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #a8e388);
+}
+
+
+/* Grass/Fighting */
+
+.pokemon-background-grass-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #a8e388);
+}
+
+
+/* Grass/Fire */
+
+.pokemon-background-grass-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #a8e388);
+}
+
+
+/* Grass/Flying */
+
+.pokemon-background-grass-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #a8e388);
+}
+
+
+/* Grass/Ghost */
+
+.pokemon-background-grass-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #a8e388);
+}
+
+
+/* Grass/Ground */
+
+.pokemon-background-grass-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #a8e388);
+}
+
+
+/* Grass/Ice */
+
+.pokemon-background-grass-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #a8e388);
+}
+
+
+/* Grass/Normal */
+
+.pokemon-background-grass-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #a8e388);
+}
+
+
+/* Grass/Poison */
+
+.pokemon-background-grass-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #a8e388);
+}
+
+
+/* Grass/Psychic */
+
+.pokemon-background-grass-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #a8e388);
+}
+
+
+/* Grass/Rock */
+
+.pokemon-background-grass-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #a8e388);
+}
+
+
+/* Grass/Steel */
+
+.pokemon-background-grass-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #a8e388);
+}
+
+
+/* Grass/Water */
+
+.pokemon-background-grass-water {
+    background: linear-gradient(to bottom right, #aaaaff, #a8e388);
+}
+
+
+/* Ground/Bug */
+
+.pokemon-background-ground-bug {
+    background: linear-gradient(to bottom right, #e1cda1, #8b8b4f);
+}
+
+
+/* Ground/Dark */
+
+.pokemon-background-ground-dark {
+    background: linear-gradient(to bottom right, #777777, #e1cda1);
+}
+
+
+/* Ground/Dragon */
+
+.pokemon-background-ground-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #e1cda1);
+}
+
+
+/* Ground/Electric */
+
+.pokemon-background-ground-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #e1cda1);
+}
+
+
+/* Ground/Fairy */
+
+.pokemon-background-ground-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #e1cda1);
+}
+
+
+/* Ground/Fighting */
+
+.pokemon-background-ground-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #e1cda1);
+}
+
+
+/* Ground/Fire */
+
+.pokemon-background-ground-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #e1cda1);
+}
+
+
+/* Ground/Flying */
+
+.pokemon-background-ground-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #e1cda1);
+}
+
+
+/* Ground/Ghost */
+
+.pokemon-background-ground-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #e1cda1);
+}
+
+
+/* Ground/Grass */
+
+.pokemon-background-ground-grass {
+    background: linear-gradient(to bottom right, #a8e388, #e1cda1);
+}
+
+
+/* Ground/Ice */
+
+.pokemon-background-ground-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #e1cda1);
+}
+
+
+/* Ground/Normal */
+
+.pokemon-background-ground-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #e1cda1);
+}
+
+
+/* Ground/Poison */
+
+.pokemon-background-ground-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #e1cda1);
+}
+
+
+/* Ground/Psychic */
+
+.pokemon-background-ground-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #e1cda1);
+}
+
+
+/* Ground/Rock */
+
+.pokemon-background-ground-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #e1cda1);
+}
+
+
+/* Ground/Steel */
+
+.pokemon-background-ground-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #e1cda1);
+}
+
+
+/* Ground/Water */
+
+.pokemon-background-ground-water {
+    background: linear-gradient(to bottom right, #aaaaff, #e1cda1);
+}
+
+
+/* Ice/Bug */
+
+.pokemon-background-ice-bug {
+    background: linear-gradient(to bottom right, #c6e0ff, #8b8b4f);
+}
+
+
+/* Ice/Dark */
+
+.pokemon-background-ice-dark {
+    background: linear-gradient(to bottom right, #777777, #c6e0ff);
+}
+
+
+/* Ice/Dragon */
+
+.pokemon-background-ice-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #c6e0ff);
+}
+
+
+/* Ice/Electric */
+
+.pokemon-background-ice-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #c6e0ff);
+}
+
+
+/* Ice/Fairy */
+
+.pokemon-background-ice-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #c6e0ff);
+}
+
+
+/* Ice/Fighting */
+
+.pokemon-background-ice-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #c6e0ff);
+}
+
+
+/* Ice/Fire */
+
+.pokemon-background-ice-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #c6e0ff);
+}
+
+
+/* Ice/Flying */
+
+.pokemon-background-ice-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #c6e0ff);
+}
+
+
+/* Ice/Ghost */
+
+.pokemon-background-ice-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #c6e0ff);
+}
+
+
+/* Ice/Grass */
+
+.pokemon-background-ice-grass {
+    background: linear-gradient(to bottom right, #a8e388, #c6e0ff);
+}
+
+
+/* Ice/Ground */
+
+.pokemon-background-ice-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #c6e0ff);
+}
+
+
+/* Ice/Normal */
+
+.pokemon-background-ice-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #c6e0ff);
+}
+
+
+/* Ice/Poison */
+
+.pokemon-background-ice-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #c6e0ff);
+}
+
+
+/* Ice/Psychic */
+
+.pokemon-background-ice-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #c6e0ff);
+}
+
+
+/* Ice/Rock */
+
+.pokemon-background-ice-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #c6e0ff);
+}
+
+
+/* Ice/Steel */
+
+.pokemon-background-ice-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #c6e0ff);
+}
+
+
+/* Ice/Water */
+
+.pokemon-background-ice-water {
+    background: linear-gradient(to bottom right, #aaaaff, #c6e0ff);
+}
+
+
+/* Normal/Bug */
+
+.pokemon-background-normal-bug {
+    background: linear-gradient(to bottom right, #dcdcdc, #8b8b4f);
+}
+
+
+/* Normal/Dark */
+
+.pokemon-background-normal-dark {
+    background: linear-gradient(to bottom right, #dcdcdc, #1a1a1a);
+}
+
+
+/* Normal/Dragon */
+
+.pokemon-background-normal-dragon {
+    background: linear-gradient(to bottom right, #dcdcdc, #4d4dff);
+}
+
+
+/* Normal/Electric */
+
+.pokemon-background-normal-electric {
+    background: linear-gradient(to bottom right, #dcdcdc, #ffd700);
+}
+
+
+/* Normal/Fairy */
+
+.pokemon-background-normal-fairy {
+    background: linear-gradient(to bottom right, #dcdcdc, #ff69b4);
+}
+
+
+/* Normal/Fighting */
+
+.pokemon-background-normal-fighting {
+    background: linear-gradient(to bottom right, #dcdcdc, #b25836);
+}
+
+
+/* Normal/Fire */
+
+.pokemon-background-normal-fire {
+    background: linear-gradient(to bottom right, #dcdcdc, #800000);
+}
+
+
+/* Normal/Flying */
+
+.pokemon-background-normal-flying {
+    background: linear-gradient(to bottom right, #dcdcdc, #4f83a1);
+}
+
+
+/* Normal/Ghost */
+
+.pokemon-background-normal-ghost {
+    background: linear-gradient(to bottom right, #dcdcdc, #4d4d5c);
+}
+
+
+/* Normal/Grass */
+
+.pokemon-background-normal-grass {
+    background: linear-gradient(to bottom right, #dcdcdc, #a8e388);
+}
+
+
+/* Normal/Ground */
+
+.pokemon-background-normal-ground {
+    background: linear-gradient(to bottom right, #dcdcdc, #8b795e);
+}
+
+
+/* Normal/Ice */
+
+.pokemon-background-normal-ice {
+    background: linear-gradient(to bottom right, #dcdcdc, #5c85d6);
+}
+
+
+/* Normal/Poison */
+
+.pokemon-background-normal-poison {
+    background: linear-gradient(to bottom right, #dcdcdc, #800080);
+}
+
+
+/* Normal/Psychic */
+
+.pokemon-background-normal-psychic {
+    background: linear-gradient(to bottom right, #dcdcdc, #ff69b4);
+}
+
+
+/* Normal/Rock */
+
+.pokemon-background-normal-rock {
+    background: linear-gradient(to bottom right, #dcdcdc, #6b6b6b);
+}
+
+
+/* Normal/Steel */
+
+.pokemon-background-normal-steel {
+    background: linear-gradient(to bottom right, #dcdcdc, #808080);
+}
+
+
+/* Normal/Water */
+
+.pokemon-background-normal-water {
+    background: linear-gradient(to bottom right, #dcdcdc, #000080);
+}
+
+
+/* Poison/Bug */
+
+.pokemon-background-poison-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #d98cb3);
+}
+
+
+/* Poison/Dark */
+
+.pokemon-background-poison-dark {
+    background: linear-gradient(to bottom right, #777777, #d98cb3);
+}
+
+
+/* Poison/Dragon */
+
+.pokemon-background-poison-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #d98cb3);
+}
+
+
+/* Poison/Electric */
+
+.pokemon-background-poison-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #d98cb3);
+}
+
+
+/* Poison/Fairy */
+
+.pokemon-background-poison-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #d98cb3);
+}
+
+
+/* Poison/Fighting */
+
+.pokemon-background-poison-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #d98cb3);
+}
+
+
+/* Poison/Fire */
+
+.pokemon-background-poison-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #d98cb3);
+}
+
+
+/* Poison/Flying */
+
+.pokemon-background-poison-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #d98cb3);
+}
+
+
+/* Poison/Ghost */
+
+.pokemon-background-poison-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #d98cb3);
+}
+
+
+/* Poison/Grass */
+
+.pokemon-background-poison-grass {
+    background: linear-gradient(to bottom right, #a8e388, #d98cb3);
+}
+
+
+/* Poison/Ground */
+
+.pokemon-background-poison-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #d98cb3);
+}
+
+
+/* Poison/Ice */
+
+.pokemon-background-poison-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #d98cb3);
+}
+
+
+/* Poison/Normal */
+
+.pokemon-background-poison-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #d98cb3);
+}
+
+
+/* Poison/Psychic */
+
+.pokemon-background-poison-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #d98cb3);
+}
+
+
+/* Poison/Rock */
+
+.pokemon-background-poison-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #d98cb3);
+}
+
+
+/* Poison/Steel */
+
+.pokemon-background-poison-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #d98cb3);
+}
+
+
+/* Poison/Water */
+
+.pokemon-background-poison-water {
+    background: linear-gradient(to bottom right, #aaaaff, #d98cb3);
+}
+
+
+/* Psychic/Bug */
+
+.pokemon-background-psychic-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #ff69b4);
+}
+
+
+/* Psychic/Dark */
+
+.pokemon-background-psychic-dark {
+    background: linear-gradient(to bottom right, #777777, #ff69b4);
+}
+
+
+/* Psychic/Dragon */
+
+.pokemon-background-psychic-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #ff69b4);
+}
+
+
+/* Psychic/Electric */
+
+.pokemon-background-psychic-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #ff69b4);
+}
+
+
+/* Psychic/Fairy */
+
+.pokemon-background-psychic-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #ff69b4);
+}
+
+
+/* Psychic/Fighting */
+
+.pokemon-background-psychic-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #ff69b4);
+}
+
+
+/* Psychic/Fire */
+
+.pokemon-background-psychic-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #ff69b4);
+}
+
+
+/* Psychic/Flying */
+
+.pokemon-background-psychic-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #ff69b4);
+}
+
+
+/* Psychic/Ghost */
+
+.pokemon-background-psychic-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #ff69b4);
+}
+
+
+/* Psychic/Grass */
+
+.pokemon-background-psychic-grass {
+    background: linear-gradient(to bottom right, #a8e388, #ff69b4);
+}
+
+
+/* Psychic/Ground */
+
+.pokemon-background-psychic-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #ff69b4);
+}
+
+
+/* Psychic/Ice */
+
+.pokemon-background-psychic-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #ff69b4);
+}
+
+
+/* Psychic/Normal */
+
+.pokemon-background-psychic-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #ff69b4);
+}
+
+
+/* Psychic/Poison */
+
+.pokemon-background-psychic-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #ff69b4);
+}
+
+
+/* Psychic/Rock */
+
+.pokemon-background-psychic-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #ff69b4);
+}
+
+
+/* Psychic/Steel */
+
+.pokemon-background-psychic-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #ff69b4);
+}
+
+
+/* Psychic/Water */
+
+.pokemon-background-psychic-water {
+    background: linear-gradient(to bottom right, #aaaaff, #ff69b4);
+}
+
+
+/* Rock/Bug */
+
+.pokemon-background-rock-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #6b6b6b);
+}
+
+
+/* Rock/Dark */
+
+.pokemon-background-rock-dark {
+    background: linear-gradient(to bottom right, #777777, #6b6b6b);
+}
+
+
+/* Rock/Dragon */
+
+.pokemon-background-rock-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #6b6b6b);
+}
+
+
+/* Rock/Electric */
+
+.pokemon-background-rock-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #6b6b6b);
+}
+
+
+/* Rock/Fairy */
+
+.pokemon-background-rock-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #6b6b6b);
+}
+
+
+/* Rock/Fighting */
+
+.pokemon-background-rock-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #6b6b6b);
+}
+
+
+/* Rock/Fire */
+
+.pokemon-background-rock-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #6b6b6b);
+}
+
+
+/* Rock/Flying */
+
+.pokemon-background-rock-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #6b6b6b);
+}
+
+
+/* Rock/Ghost */
+
+.pokemon-background-rock-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #6b6b6b);
+}
+
+
+/* Rock/Grass */
+
+.pokemon-background-rock-grass {
+    background: linear-gradient(to bottom right, #a8e388, #6b6b6b);
+}
+
+
+/* Rock/Ground */
+
+.pokemon-background-rock-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #6b6b6b);
+}
+
+
+/* Rock/Ice */
+
+.pokemon-background-rock-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #6b6b6b);
+}
+
+
+/* Rock/Normal */
+
+.pokemon-background-rock-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #6b6b6b);
+}
+
+
+/* Rock/Poison */
+
+.pokemon-background-rock-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #6b6b6b);
+}
+
+
+/* Rock/Psychic */
+
+.pokemon-background-rock-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #6b6b6b);
+}
+
+
+/* Rock/Steel */
+
+.pokemon-background-rock-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #6b6b6b);
+}
+
+
+/* Rock/Water */
+
+.pokemon-background-rock-water {
+    background: linear-gradient(to bottom right, #aaaaff, #6b6b6b);
+}
+
+
+/* Steel/Bug */
+
+.pokemon-background-steel-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #808080);
+}
+
+
+/* Steel/Dark */
+
+.pokemon-background-steel-dark {
+    background: linear-gradient(to bottom right, #777777, #808080);
+}
+
+
+/* Steel/Dragon */
+
+.pokemon-background-steel-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #808080);
+}
+
+
+/* Steel/Electric */
+
+.pokemon-background-steel-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #808080);
+}
+
+
+/* Steel/Fairy */
+
+.pokemon-background-steel-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #808080);
+}
+
+
+/* Steel/Fighting */
+
+.pokemon-background-steel-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #808080);
+}
+
+
+/* Steel/Fire */
+
+.pokemon-background-steel-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #808080);
+}
+
+
+/* Steel/Flying */
+
+.pokemon-background-steel-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #808080);
+}
+
+
+/* Steel/Ghost */
+
+.pokemon-background-steel-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #808080);
+}
+
+
+/* Steel/Grass */
+
+.pokemon-background-steel-grass {
+    background: linear-gradient(to bottom right, #a8e388, #808080);
+}
+
+
+/* Steel/Ground */
+
+.pokemon-background-steel-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #808080);
+}
+
+
+/* Steel/Ice */
+
+.pokemon-background-steel-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #808080);
+}
+
+
+/* Steel/Normal */
+
+.pokemon-background-steel-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #808080);
+}
+
+
+/* Steel/Poison */
+
+.pokemon-background-steel-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #808080);
+}
+
+
+/* Steel/Psychic */
+
+.pokemon-background-steel-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #808080);
+}
+
+
+/* Steel/Rock */
+
+.pokemon-background-steel-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #808080);
+}
+
+
+/* Steel/Water */
+
+.pokemon-background-steel-water {
+    background: linear-gradient(to bottom right, #aaaaff, #808080);
+}
+
+
+/* Water/Bug */
+
+.pokemon-background-water-bug {
+    background: linear-gradient(to bottom right, #c6d77f, #000080);
+}
+
+
+/* Water/Dark */
+
+.pokemon-background-water-dark {
+    background: linear-gradient(to bottom right, #777777, #000080);
+}
+
+
+/* Water/Dragon */
+
+.pokemon-background-water-dragon {
+    background: linear-gradient(to bottom right, #a9a9f5, #000080);
+}
+
+
+/* Water/Electric */
+
+.pokemon-background-water-electric {
+    background: linear-gradient(to bottom right, #ffeb8c, #000080);
+}
+
+
+/* Water/Fairy */
+
+.pokemon-background-water-fairy {
+    background: linear-gradient(to bottom right, #ffc0cb, #000080);
+}
+
+
+/* Water/Fighting */
+
+.pokemon-background-water-fighting {
+    background: linear-gradient(to bottom right, #f2b096, #000080);
+}
+
+
+/* Water/Fire */
+
+.pokemon-background-water-fire {
+    background: linear-gradient(to bottom right, #ffaaaa, #000080);
+}
+
+
+/* Water/Flying */
+
+.pokemon-background-water-flying {
+    background: linear-gradient(to bottom right, #c0d6e4, #000080);
+}
+
+
+/* Water/Ghost */
+
+.pokemon-background-water-ghost {
+    background: linear-gradient(to bottom right, #b3b3cc, #000080);
+}
+
+
+/* Water/Grass */
+
+.pokemon-background-water-grass {
+    background: linear-gradient(to bottom right, #a8e388, #000080);
+}
+
+
+/* Water/Ground */
+
+.pokemon-background-water-ground {
+    background: linear-gradient(to bottom right, #e1cda1, #000080);
+}
+
+
+/* Water/Ice */
+
+.pokemon-background-water-ice {
+    background: linear-gradient(to bottom right, #c6e0ff, #000080);
+}
+
+
+/* Water/Normal */
+
+.pokemon-background-water-normal {
+    background: linear-gradient(to bottom right, #dcdcdc, #000080);
+}
+
+
+/* Water/Poison */
+
+.pokemon-background-water-poison {
+    background: linear-gradient(to bottom right, #d98cb3, #000080);
+}
+
+
+/* Water/Psychic */
+
+.pokemon-background-water-psychic {
+    background: linear-gradient(to bottom right, #ffb3e6, #000080);
+}
+
+
+/* Water/Rock */
+
+.pokemon-background-water-rock {
+    background: linear-gradient(to bottom right, #c6c6c6, #000080);
+}
+
+
+/* Water/Steel */
+
+.pokemon-background-water-steel {
+    background: linear-gradient(to bottom right, #d3d3d3, #000080);
+}

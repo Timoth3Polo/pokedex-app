@@ -1,3 +1,18 @@
+@font-face {
+    font-family: 'pokemon-font';
+    src: url('./fonts/Pokemon-Solid.ttf') format('truetype');
+}
+
 body {
     margin: 0;
+    font-family: 'pokemon-font', sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+    background-color: rgb(186, 18, 0);
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
 }
