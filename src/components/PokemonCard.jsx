@@ -1,10 +1,16 @@
 import { useEffect, useState } from "react";
+import { PokemonCardModal } from "./PokemonCardModal";
 import "../styles/pokemon-type.css";
 import "../styles/pokemon-card.css";
 
 export const PokemonCard = ({urlPokemon}) => {
 
     const [pokemon, setPokemon] = useState(null);
+    const [modalOpen, setModalOpen] = useState(false);
+
+    const handleClick = () => {
+        setModalOpen(!modalOpen);
+    }
 
     const findPokemonIconTypeClass = (typeName) => {
         return `type-icon type-${typeName.toLowerCase()}`;
@@ -30,7 +36,8 @@ export const PokemonCard = ({urlPokemon}) => {
     }, []);
 
     return (
-        <div className={pokemon && findPokemonColorTypeClass(pokemon.types.map((typeInfo) => typeInfo.type.name).join('-'))}>
+        <div onClick={handleClick}
+            className={pokemon && findPokemonColorTypeClass(pokemon.types.map((typeInfo) => typeInfo.type.name).join('-'))}>
             {pokemon && (
                 <>
                     {pokemon.sprites.front_default && (
@@ -40,12 +47,13 @@ export const PokemonCard = ({urlPokemon}) => {
                     <h3>{pokemon.name.toUpperCase()}</h3>
     
                         <div className="type-card">
-                    {pokemon.types.map((typeInfo) => (
-                        <div className={findPokemonIconTypeClass(typeInfo.type.name)}> {typeInfo.type.name} </div>
-                    ))}
+                            {pokemon.types.map((typeInfo) => (
+                                <div className={findPokemonIconTypeClass(typeInfo.type.name)}> {typeInfo.type.name} </div>
+                            ))}
                     </div>
                 </>
             )}
+            {modalOpen && <PokemonCardModal onClose={() => setModalOpen(false)} pokemon={pokemon} />}
         </div>
     );
     

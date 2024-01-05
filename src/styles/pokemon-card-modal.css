@@ -1,0 +1,45 @@
+.pokemon-cart-modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-left: 15vw;
+    width: 85vw;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Fond gris avec transparence */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    cursor: auto;
+}
+
+.pokemon-cart-modal-content {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10%;
+    border: black solid 1px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    height: 80vh;
+    width: 40vw;
+    font-size: 20px;
+}
+
+.pokemon-img-modal img {
+    width: 20vw;
+}
+
+.close-modal {
+    position: fixed;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 35vw;
+    margin-top: 2vh;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.text-pokemon-modal {
+    text-align: left;
+    margin-left: 5vw;
+}
